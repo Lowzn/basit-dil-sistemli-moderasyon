@@ -1,0 +1,20 @@
+{
+  "name": "Godzilla Moderasyon Bot Altyapı",
+  "version": "3.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Ly3ssia",
+  "license": "ISC",
+  "devDependencies": {
+    "node": "16.6.0"
+  },
+  "dependencies": {
+    "croxydb": "^0.0.7",
+    "discord.js": "^13.5.1"
+  }
+}
